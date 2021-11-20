@@ -1,0 +1,13 @@
+id
+barraSuperior
+textoSupieror
+colorFondo
+colorTexto
+redesSociales
+fecha
+logo
+icono
+
+red : Facebook
+estilo : fecebookColor
+url : http://facebook.com/TiendaVirtual
